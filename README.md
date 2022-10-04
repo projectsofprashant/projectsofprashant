@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/projectsofprashant/projectsofprashant/blob/main/animation_500_kxa883sd.gif" alt="projectsofprashant" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Software Development and other programming languages.
 
 - 📫 How to reach me **prashantmishra112003@gmail.com**
 
